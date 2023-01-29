@@ -1,16 +1,22 @@
-# hello_word
+# bookshoot
 
-A new Flutter project.
+독서모임에 필요한 블로그 앱 
 
-## Getting Started
+## 왜 필요한가?
 
-This project is a starting point for a Flutter application.
+독서 모임 인원 개개인은 자신의 독서한 책에 대한 내용을 블로그에 작성한다.
 
-A few resources to get you started if this is your first Flutter project:
+작성한 내용들은 네이버 블로그에 직접 링크를 타고 들어가 봐야하는 불편함이 있다.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+직접 링크를 타고 들어가는 것이 아닌, 앱으로 편하게 개개인의 블로그 글을 볼 수 있다.
+
+
+### Application
+
+
+
+https://user-images.githubusercontent.com/69062776/215324338-13fab2ea-8397-4a9d-906b-32ae6ed3e9e4.mov
+
+
+- WebView 기반이여서 로그인을 하면, 앱을 종료해도 유지된다.
